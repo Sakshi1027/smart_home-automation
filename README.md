@@ -59,8 +59,8 @@ This project implements a low-cost, IoT-based smart home automation system using
 ## Screenshots
 Below are placeholders for images to showcase the project. Replace these with actual images of your setup.
 
-![Hardware Setup](/Screenshot 2025-06-19 194057.png)
-![Blynk App Interface](images/blynk_interface.jpg)
+![Hardware Setup](Screenshot 2025-06-19 194057.png)
+![Blynk App Interface](Screenshot 2025-06-19 194110.png)
 
 
 ## Future Enhancements
