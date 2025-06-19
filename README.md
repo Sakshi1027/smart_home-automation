@@ -56,13 +56,6 @@ This project implements a low-cost, IoT-based smart home automation system using
    - Monitor sensor data and control devices via the Blynk app.
    - Verify functionality (e.g., buzzer on intrusion, LED on motion, pump off at high water level).
 
-## Screenshots
-Below are placeholders for images to showcase the project. Replace these with actual images of your setup.
-
-![Hardware Setup](Screenshot 2025-06-19 194057.png)
-![Blynk App Interface](Screenshot 2025-06-19 194110.png)
-
-
 ## Future Enhancements
 - Add voice control using Alexa or Google Assistant.
 - Integrate cloud-based data logging for historical analysis.
