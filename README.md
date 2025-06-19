@@ -30,8 +30,8 @@ This project implements a low-cost, IoT-based smart home automation system using
 - Libraries: Blynk, ESP8266WiFi (for ESP8266), WiFi (for ESP32)
 
 ## Project Structure
-- `ir_led_ultrasonic_blynk.ino`: Code for intrusion detection (ultrasonic + buzzer) and motion detection (IR + LED) with Blynk integration.
-- `ldr_fan_blynk.ino`: Code for light intensity control (LDR + light) and DC fan control with Blynk integration.
+- `final_ir_ultra.ino`: Code for intrusion detection (ultrasonic + buzzer) and motion detection (IR + LED) with Blynk integration.
+- `dc_dht_ldr_blynk.ino`: Code for light intensity control (LDR + light) and DC fan control with Blynk integration.
 - `pump_blynk.ino`: Code for water pump control based on water level (ultrasonic) with Blynk integration.
 
 ## Setup Instructions
@@ -59,9 +59,9 @@ This project implements a low-cost, IoT-based smart home automation system using
 ## Screenshots
 Below are placeholders for images to showcase the project. Replace these with actual images of your setup.
 
-![Hardware Setup](images/hardware_setup.jpg)
+![Hardware Setup](/Screenshot 2025-06-19 194057.png)
 ![Blynk App Interface](images/blynk_interface.jpg)
-![Circuit Diagram](images/circuit_diagram.jpg)
+
 
 ## Future Enhancements
 - Add voice control using Alexa or Google Assistant.
